@@ -37,7 +37,7 @@ The Top 10 Dashboard identifies top-performing countries and states based on sal
 
 ## Project Demo
 
-https://github.com/omarashrafhamdy/Super-Store-Analysis-Using-Tableau/assets/58981064/06c3de14-d882-4fef-acc0-8a90d94cd02b
+https://github.com/AbdelrahmanSaqr/GlobalStoreSales-Dashboard-using-Tableau/assets/112902210/70054b02-c23d-470f-8fe0-2a439057d586
 
 ## Instructions for Users
 1. Open Tableau.
