@@ -35,6 +35,10 @@ The Top 10 Dashboard identifies top-performing countries and states based on sal
   - **Chart 1**: Top 10 countries by sales.
   - **Chart 2**: Top 10 states by sales, based on the selection from Chart 1.
 
+## Project Demo
+
+https://github.com/omarashrafhamdy/Super-Store-Analysis-Using-Tableau/assets/58981064/06c3de14-d882-4fef-acc0-8a90d94cd02b
+
 ## Instructions for Users
 1. Open Tableau.
 2. Import the provided data source.
